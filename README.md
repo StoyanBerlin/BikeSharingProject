@@ -3,7 +3,7 @@ Analysis and Visualisation of Bike Sharing Rentals with the goal to predict and 
 
 Project Stages -
 - Preprocessing
-- Model Fitting
+- Model Fitting:
 - Predictive Modelling
     Linear Regression
     Random Forest Regressor
@@ -11,5 +11,5 @@ Project Stages -
     Bagging Regressor
     Support Vector Regression
     KNeighbors Regressor
-- Visualisation
+- Visualisation:
     Day, Week, Month, Season, Windspeed, Temperature, Humidity
